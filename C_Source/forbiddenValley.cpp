@@ -57,7 +57,7 @@ void nextDay(gameDate &d, double &loan, double rate) {
 
     applyInterest(loan, rate);
 
-    std::cout << "Date: " << d.month << "/" << d.day << "/" << d.year << " | Balance: $" << std::fixed << std::setprecision(2) << loan << "\n";
+    std::cout << "Date: " << d.month << "/" << d.day << "/" << d.year << " | Loan: $" << std::fixed << std::setprecision(2) << loan << "\n";
 }
 
 // Function to display the current balance
@@ -180,6 +180,7 @@ int main() {
         std::cout << "2. Deposit money\n";
         std::cout << "3. Pay loan\n";
         std::cout << "4. Exit\n";
+        std::cout << "\n********************************\n";
         std::cout << "Enter choice: ";
         std::cin >> choice;
 
