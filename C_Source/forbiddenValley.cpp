@@ -110,6 +110,7 @@ double chooseLoan() {
     }
 }
 
+//Function to pay loan
 void payLoan(double &balance, double &loan){
     if(loan <= 0){
         std::cout << "No loan to pay off.\n";
