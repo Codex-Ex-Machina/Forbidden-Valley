@@ -1,7 +1,3 @@
-# Forbidden-Valley
-Have you ever wanted to take out an unlimited loan without a social credit check? If so, this is the game for you!
+You start with no job, no home, no life goals, just a dream of one day owning 52 monthly streaming subscriptions at once. Luckily, the National Loan Office(NLO) is running a promotion: unlimited loans with no credit check.
 
-Lore:
-The player is a jobless CS major, who uses loans to pay for essential goods, such as video games and Netflix.
-
-You level up from "Homeless begger" to an "Organ selling Warlord"
+As you borrow more, you gain prestige. As your prestige grows, so does your collection of questionable “business ventures” and ethically ambiguous hobbies. Eventually, you’ll rise from penniless nobody to full-blown Organ-Selling Warlord, feared and respected across the financial underworld.
